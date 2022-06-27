@@ -25,7 +25,7 @@ title: Piaculog # the main title
 
 tagline: 방문해주셔서 감사합니다. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed # seo를 위한 키워드
+description: >- # used by seo meta and the atom feed # SeO를 위한 키워드
   piacu
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
