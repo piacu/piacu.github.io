@@ -26,7 +26,7 @@ chirpy 를 fork 해서 저장소로 가져온 뒤 clone 해서 local 에서 작�
 
 
 
-![image-20220628041346620](C:\Users\jszna\AppData\Roaming\Typora\typora-user-images\image-20220628041346620.png)
+![image-20220628041346620](https://user-images.githubusercontent.com/26267376/176025174-ca24be46-e656-4ced-8e36-7280ebc80cd8.png)
 
 clone 한 다음 chirpy 공식문서의 Option 2를 따라하면 쉽게 됩니다.
 
@@ -40,7 +40,7 @@ clone 한 다음 chirpy 공식문서의 Option 2를 따라하면 쉽게 됩니�
 
 ### 많은 시간을 소비하게 만든 인증 오류
 
-![image-20220628035815133](C:\Users\jszna\AppData\Roaming\Typora\typora-user-images\image-20220628035815133.png)
+![image-20220628035815133](https://user-images.githubusercontent.com/26267376/176025107-383ac77e-f3d9-4e07-99f7-8707fd80d18b.png)
 
 <span style="color:red">! [remote rejected]</span> master -> master (refusing to allow an OAuth App to create or update workflow `.github/workflows/pages-deploy.yml` without `workflow` scope)
 <span style="color:red">error: failed to push some refs to 'https://github.com/piacu/piacu.github.io.git'</span>
@@ -55,7 +55,7 @@ clone 한 다음 chirpy 공식문서의 Option 2를 따라하면 쉽게 됩니�
 
 https://github.community/t/refusing-to-allow-an-integration-to-create-or-update/16326
 
-![image-20220628043011325](C:\Users\jszna\AppData\Roaming\Typora\typora-user-images\image-20220628043011325.png)
+![112](https://user-images.githubusercontent.com/26267376/176024881-15adee86-b01e-4731-a76f-4fab6493ccbd.PNG)
 
 Github Desktop과 같은 도구를 업데이트하면 애플리케이션 토큰을 요청할 수 있다!!!
 
