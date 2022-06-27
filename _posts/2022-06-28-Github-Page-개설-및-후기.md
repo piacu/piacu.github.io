@@ -10,7 +10,7 @@
 
 
 
-### 깃허브 페이지를 만들기 까지..
+## 깃허브 페이지를 만들기 까지..
 
 나만의 블로그를 만들어서 운영하고 싶었는데 피차 미루다가 오늘은 무조건 마무리해야겠다고 마음먹고 시작!!
 
@@ -38,12 +38,15 @@ clone 한 다음 chirpy 공식문서의 Option 2를 따라하면 쉽게 됩니�
 
 
 
-### 많은 시간을 소비하게 만든 인증 오류
+## 많은 시간을 소비하게 만든 인증 오류
 
 ![image-20220628035815133](https://user-images.githubusercontent.com/26267376/176025107-383ac77e-f3d9-4e07-99f7-8707fd80d18b.png)
 
 <span style="color:red">! [remote rejected]</span> master -> master (refusing to allow an OAuth App to create or update workflow `.github/workflows/pages-deploy.yml` without `workflow` scope)
+
 <span style="color:red">error: failed to push some refs to 'https://github.com/piacu/piacu.github.io.git'</span>
+
+
 
 해석하면 `OAuth 앱`이 `workflow` 범위 없이 `~~/pages-deploy.yml` 워크플로를 생성하거나 업데이트 걸 거부한다. 라는데...
 
