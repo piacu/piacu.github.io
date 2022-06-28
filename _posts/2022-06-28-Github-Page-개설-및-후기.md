@@ -10,13 +10,13 @@
 
 
 
-## 깃허브 페이지를 만들기 까지..
+## Github Page를 만들기까지의 과정
 
 나만의 블로그를 만들어서 운영하고 싶었는데 피차 미루다가 오늘은 무조건 마무리해야겠다고 마음먹고 시작!!
 
 개발자들이 많이 사용한다는 Tistory나 Velog 와 고민하다가 github page의 장점인 자유로운 커스터마이징의 매력을 보고 깃허브 페이지를 선택했습니다.
 
-하지만 자유롭다는 것은... 그만큼 큰 책임(일)이 따른다는 진리는 역시 틀린 말 하나 없는 것 같군요.
+하지만 자유롭다는 것은 그만큼 큰 책임(일)이 따른다는 진리는 역시 틀린 말 하나 없는 것 같군요.
 
 
 
@@ -42,9 +42,9 @@ clone 한 다음 chirpy 공식문서의 Option 2를 따라하면 쉽게 됩니�
 
 ![image-20220628035815133](https://user-images.githubusercontent.com/26267376/176025107-383ac77e-f3d9-4e07-99f7-8707fd80d18b.png)
 
-<span style="color:red">! [remote rejected]</span> master -> master (refusing to allow an OAuth App to create or update workflow `.github/workflows/pages-deploy.yml` without `workflow` scope)
-
-<span style="color:red">error: failed to push some refs to 'https://github.com/piacu/piacu.github.io.git'</span>
+>  <span style="color:red">! [remote rejected]</span> master -> master (refusing to allow an OAuth App to create or update workflow `.github/workflows/pages-deploy.yml` without `workflow` scope)   
+>
+> <span style="color:red">error: failed to push some refs to 'https://github.com/piacu/piacu.github.io.git'</span>
 
 
 
