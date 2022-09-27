@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Piaculog # the main title
 
-tagline: 방문해주셔서 감사합니다. # it will display as the sub-title
+tagline: 기초부터 차근차근 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed # SeO를 위한 키워드임
   piacu
