@@ -1,14 +1,13 @@
 ---
-title: About Me
-date: 2022-06-28
+title: about
 tag: [piacu]
-icon: fas fa-about
+icon: fas fa-into-circle
 order: 4
 ---
 
 **안녕하세요**
 
-**저는** **positive한 개발자 전승준입니다.**
+**저는** **positive 한 전승준입니다.**
 
 -------------------------
 
@@ -19,7 +18,7 @@ order: 4
 
 --------------------------
 
-
+### 
 
 ### 좋아하는 기술 스택
 
