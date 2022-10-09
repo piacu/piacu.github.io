@@ -1,6 +1,6 @@
 ---
 
-title: [Programmers] 가장 큰 수
+title: "[Java] 프로그래머스: 가장 큰 수"
 author: piacu
 date: 2022-10-02 19:00:00 +0900
 categories: [Algorithm, Programmers]

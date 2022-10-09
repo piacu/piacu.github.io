@@ -1,6 +1,6 @@
 ---
 
-title: [Programmers] K번째수
+title: "[Java] 프로그래머스: K번째수"
 author: piacu
 date: 2022-09-28 19:00:00 +0900
 categories: [Algorithm, Programmers]

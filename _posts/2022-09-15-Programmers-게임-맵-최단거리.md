@@ -1,6 +1,6 @@
 ---
 
-title: [Programmers] 게임 맵 최단거리
+title: "[Java] 프로그래머스: 게임 맵 최단거리"
 author: piacu
 date: 2022-09-15 19:00:00 +0900
 categories: [Algorithm, Programmers]
