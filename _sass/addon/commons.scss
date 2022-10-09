@@ -1285,6 +1285,11 @@ $sidebar-display: "sidebar-display";
       -moz-transition: none;
       transition: none;
     }
+
+    background: url('/assets/img/profile_background.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+
   }
 
   #main-wrapper {
