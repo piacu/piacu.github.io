@@ -1,7 +1,6 @@
 ---
-layout: portfolio
 title: Portfolio
-icon: fas fa-about
+icon: fas fa-file-code-o
 order: 5
 ---
 

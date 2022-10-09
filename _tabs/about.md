@@ -1,7 +1,6 @@
 ---
-title: about
-tag: [piacu]
-icon: fas fa-into-circle
+title: About
+icon: fas fa-into
 order: 4
 ---
 
