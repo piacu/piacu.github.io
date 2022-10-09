@@ -1,14 +1,12 @@
-```
 ---
+
 title: Github Page 개설 및 후기
 author: piacu
 date: 2022-06-28 11:33:00 +0900
 categories: [Blogging, Blog]
 tags: [githubpage, jekyll, chirpy]
+
 ---
-```
-
-
 
 > 안녕하세요. Github Page 를 사용한 블로그를 개설하였습니다.
 >
