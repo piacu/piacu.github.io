@@ -1,12 +1,3 @@
-```
----
-title: Github Page 개설 및 후기
-date: 2022-06-28 18:00:00
-categories: [Blogging]
-tags: [github page, chirpy, jekyll]     # TAG names should always be lowercase
----
-```
-
 > 안녕하세요. Github Page 를 사용한 블로그를 개설하였습니다.
 >
 > 여기에는 여러 가지 개발 일지나 해결한 문제 등을 적는 기술블로그로 사용하고자 합니다.
