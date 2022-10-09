@@ -1,3 +1,13 @@
+---
+
+title: [Programmers] 게임 맵 최단거리
+author: piacu
+date: 2022-09-15 19:00:00 +0900
+categories: [Algorithm, Programmers]
+tags: [algorithm, programmers, java]
+
+---
+
 ###### 문제 설명
 
 ROR 게임은 두 팀으로 나누어서 진행하며, 상대 팀 진영을 먼저 파괴하면 이기는 게임입니다. 따라서, 각 팀은 상대 팀 진영에 최대한 빨리 도착하는 것이 유리합니다.
