@@ -1,6 +1,6 @@
 ---
 title: About
-icon: fas fa-into
+icon: fas fa-info
 order: 4
 ---
 

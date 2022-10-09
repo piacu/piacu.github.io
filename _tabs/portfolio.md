@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-icon: fas fa-file-code-o
+icon: fas fa-file-alt
 order: 5
 ---
 
