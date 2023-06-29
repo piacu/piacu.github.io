@@ -3,7 +3,7 @@
 title: "[Spring] 스프링 컨트롤러"
 author: piacu
 date: 2023-03-11 03:22:00 +0900
-categories: [Spring, Controller]
+categories: [Study, Spring]
 tags: [study, spring, web, java]
 
 ---
