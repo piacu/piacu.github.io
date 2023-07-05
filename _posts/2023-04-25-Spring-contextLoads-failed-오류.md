@@ -10,7 +10,7 @@ tags: [trouble shooting, spring, build, gradle]
 
 ## 증상
 
-![0425](/_posts/assets/0425.png?raw=true)`./gradlew build` 명령어를 실행하여 스프링 프로젝트를 빌드하려고 했는데 위와 같은 오류가 발생하였다.
+![0425](https://raw.githubusercontent.com/piacu/piacu.github.io/master/_posts/assets/0425.png)`./gradlew build` 명령어를 실행하여 스프링 프로젝트를 빌드하려고 했는데 위와 같은 오류가 발생하였다.
 
 
 
