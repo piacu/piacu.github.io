@@ -189,6 +189,10 @@ void update(Member member) { //itemParam: 파리미터로 넘어온 준영속 �
 
 ## Reference
 
-https://www.baeldung.com/java-record-keyword
+https://github.com/devSquad-study/2023-CS-Study/blob/main/JPA/jpa_persistence_context.md
 
-https://coding-start.tistory.com/355
+https://sjiwon-dev.tistory.com/14
+
+https://ttl-blog.tistory.com/109#%EC%A4%80%EC%98%81%EC%86%8D%EA%B3%BC%20%EB%B9%84%EC%98%81%EC%86%8D%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90-1
+
+https://ppomelo.tistory.com/147
