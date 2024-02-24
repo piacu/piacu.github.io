@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[Spring] Spring Security .antMatchers() 메소드 없음"
-author: piacu
-date: 2023-05-23 12:00:00 +0900
-categories: [Trouble Shooting, Spring]
 tags: [trouble shooting, spring, spring security]
 
 ---

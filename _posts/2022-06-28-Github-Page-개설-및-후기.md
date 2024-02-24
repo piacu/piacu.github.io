@@ -1,18 +1,16 @@
 ---
 
-title: Github Page 개설 및 후기
-author: piacu
-date: 2022-06-28 11:33:00 +0900
-categories: [Blogging, Blog]
-tags: [githubpage, jekyll, chirpy]
+layout: post
+title: "[Blog] Github Page 개설 및 후기"
+tags: [blog, jekyll, ruby]
 
 ---
 
-> 안녕하세요. Github Page 를 사용한 블로그를 개설하였습니다.
->
-> 여기에는 여러 가지 개발 일지나 해결한 문제 등을 적는 기술블로그로 사용하고자 합니다.
->
-> 첫번째 게시물은 개설을 자축하며 이 블로그를 만들기까지 헤매었던 것들을 적어보려 합니다.
+안녕하세요. Github Page 를 사용한 블로그를 개설하였습니다.
+
+여기에는 여러 가지 개발 일지나 해결한 문제 등을 적는 기술블로그로 사용하고자 합니다.
+
+첫번째 게시물은 개설을 자축하며 이 블로그를 만들기까지 헤매었던 것들을 적어보려 합니다.
 
 🎉 개설을 축하합니다~  🎉
 

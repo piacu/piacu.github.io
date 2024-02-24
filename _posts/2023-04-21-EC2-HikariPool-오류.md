@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[AWS] Spring HikariPool-1 - Thread starvation or clock leap detected 이슈"
-author: piacu
-date: 2023-04-21 19:00:00 +0900
-categories: [Trouble Shooting, AWS]
 tags: [trouble shooting, aws, ec2, hikaripool]
 
 ---

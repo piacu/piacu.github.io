@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[Spring] Spring Security .hasRole() 미적용 이슈"
-author: piacu
-date: 2023-05-24 03:06:00 +0900
-categories: [Trouble Shooting, Spring]
 tags: [trouble shooting, spring, spring security]
 
 ---

@@ -1,9 +1,7 @@
 ---
 
-title: "Garbage Collection"
-author: piacu
-date: 2023-03-03 03:12:00 +0900
-categories: [Study, Computer Science]
+layout: post
+title: "[Java] Garbage Collection"
 tags: [study, cs, web, java]
 
 ---

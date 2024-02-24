@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[JPA] 영속성 컨텍스트(Persistence Context)"
-author: piacu
-date: 2023-09-11 18:00:00 +0900
-categories: [Study, Computer Science]
 tags: [study, cs, java]
 
 ---

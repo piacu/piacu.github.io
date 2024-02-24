@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[Spring] contextLoads () FAILED 오류"
-author: piacu
-date: 2023-04-25 16:22:00 +0900
-categories: [Trouble Shooting, Spring]
 tags: [trouble shooting, spring, build, gradle]
 
 ---

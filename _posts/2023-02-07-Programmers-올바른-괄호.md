@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] 프로그래머스: 올바른 괄호"
-author: piacu
-date: 2023-02-07 18:39:00 +0900
-categories: [Algorithm, Programmers]
 tags: [algorithm, programmers, java]
 
 ---

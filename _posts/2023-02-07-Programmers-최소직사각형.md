@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] 프로그래머스: 최소직사각형"
-author: piacu
-date: 2023-02-07 23:51:00 +0900
-categories: [Algorithm, Programmers]
 tags: [algorithm, programmers, java]
 
 ---

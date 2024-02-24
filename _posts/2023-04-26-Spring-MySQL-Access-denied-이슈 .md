@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[Spring] MySQL Access denied for user 이슈"
-author: piacu
-date: 2023-04-26 15:49:00 +0900
-categories: [Trouble Shooting, Spring]
 tags: [trouble shooting, spring, mysql, gradle]
 
 ---

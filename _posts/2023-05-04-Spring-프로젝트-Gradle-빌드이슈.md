@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[Jenkins] Spring 프로젝트 Gradle 빌드 이슈"
-author: piacu
-date: 2023-05-04 21:00:00 +0900
-categories: [Trouble Shooting, Jenkins]
 tags: [trouble shooting, spring, jenkins, gradle]
 
 ---

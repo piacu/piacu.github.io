@@ -1,9 +1,7 @@
 ---
   
+layout: post
 title: "[NGINX] *1 conect() failed 이슈"
-author: piacu
-date: 2023-05-08 12:00:00 +0900
-categories: [Trouble Shooting, NGINX]
 tags: [trouble shooting, nginx, ec2]
 
 ---

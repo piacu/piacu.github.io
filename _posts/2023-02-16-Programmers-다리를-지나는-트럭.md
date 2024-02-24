@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] 프로그래머스: 다리를 지나는 트럭"
-author: piacu
-date: 2023-02-16 15:51:00 +0900
-categories: [Algorithm, Programmers]
 tags: [algorithm, programmers, java]
 
 ---

@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] 프로그래머스: 모의고사"
-author: piacu
-date: 2023-02-28 17:32:00 +0900
-categories: [Algorithm, Programmers]
 tags: [algorithm, programmers, java]
 
 ---

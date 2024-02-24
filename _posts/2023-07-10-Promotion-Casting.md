@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] Promotion & Casting"
-author: piacu
-date: 2023-06-13 18:00:00 +0900
-categories: [Study, Computer Science]
 tags: [study, cs, java]
 
 ---

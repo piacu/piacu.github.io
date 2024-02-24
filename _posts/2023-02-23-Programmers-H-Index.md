@@ -1,9 +1,7 @@
 ---
 
+layout: post
 title: "[Java] 프로그래머스: H-Index"
-author: piacu
-date: 2023-02-24 19:04:00 +0900
-categories: [Algorithm, Programmers]
 tags: [algorithm, programmers, java]
 
 ---
