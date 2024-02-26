@@ -8,7 +8,9 @@ tags: [trouble shooting, nginx, ec2]
 
 # 증상
 
-![0508](.\assets\0508.png)2023/05/08 13:12:46 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: xxx.xxx.xxx.xxx, server: , request: "POST /api/user/login HTTP/1.1", upstream: "http://xxx.xxx.xxx.xxx:8000/user/login", host: "xxx.xxx.xxx.xxx"
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/6d838d4b-cdbf-4447-9c21-1134d7da95d0)
+
+2023/05/08 13:12:46 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: xxx.xxx.xxx.xxx, server: , request: "POST /api/user/login HTTP/1.1", upstream: "http://xxx.xxx.xxx.xxx:8000/user/login", host: "xxx.xxx.xxx.xxx"
 
 
 

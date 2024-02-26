@@ -8,7 +8,9 @@ tags: [trouble shooting, spring, filter]
 
 # 증상
 
-![0524](.\assets\0524.png)토큰 관련 클래스인 JwtTokenProvider에 작성해둔 토큰 검증 메서드에서 적절하지 않은 토큰을 넣고 요청했을 때 Exception이 발생하게 되면, 넘어가는 Exception 메소드에서 상황에 따라 다른 내용이 출력되게 된다. 이 출력되는 내용이 2번씩 뜨는 증상이 있었다.
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/1255bfba-64f9-41a3-9218-94d44c55bbdf)
+
+토큰 관련 클래스인 JwtTokenProvider에 작성해둔 토큰 검증 메서드에서 적절하지 않은 토큰을 넣고 요청했을 때 Exception이 발생하게 되면, 넘어가는 Exception 메소드에서 상황에 따라 다른 내용이 출력되게 된다. 이 출력되는 내용이 2번씩 뜨는 증상이 있었다.
 
 
 

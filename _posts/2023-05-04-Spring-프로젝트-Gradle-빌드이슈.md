@@ -8,7 +8,9 @@ tags: [trouble shooting, spring, jenkins, gradle]
 
 # 증상
 
-![0504](.\assets\0504.png)gradle plugin 버전이 맞지 않다는 오류 발생
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/c47db1f5-93fe-4383-aff6-08b23dd6a3a3)
+
+gradle plugin 버전이 맞지 않다는 오류 발생
 
 → 스프링부트3을 사용하고 있는데 이는 자바 17버전 이상을 사용해야 한다. 하지만 자바 17과 gradle 3.0.4버전과는 맞지 않다는 오류 발생
 
@@ -36,7 +38,7 @@ Jenkins에서 gradle build 설정이 있길래 gradle 3.0.4(Spring 프로젝트�
 
 3. [ERROR: JAVA_HOME is set to an invalid directory](https://stackoverflow.com/questions/73159428/error-java-home-is-set-to-an-invalid-directory-please-set-the-java-home-variab)를 보고 똑같이 설정 후 jenkins 의 JDK 설정도 완료
 
-![0504-2](.\assets\0504-2.png)
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/74236f24-93a8-4f60-a8c2-439dc5394c14)
 
 ​	→ 같은 결과. **실패**
 

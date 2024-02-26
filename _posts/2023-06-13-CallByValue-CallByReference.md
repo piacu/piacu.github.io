@@ -67,7 +67,7 @@ Reference로 주소값만 보낼 때는 메모리에 저장되어 있는 a, b의
 
 그림으로 표현하자면 아래와 같다.
 
-![CBVvsCBR](https://raw.githubusercontent.com/piacu/piacu.github.io/master/_posts/assets/CBVvsCBR.png)
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/c385bb5f-8406-4640-b038-248e91937732)
 
 
 

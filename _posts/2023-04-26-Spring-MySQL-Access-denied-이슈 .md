@@ -8,7 +8,9 @@ tags: [trouble shooting, spring, mysql, gradle]
 
 # 증상
 
-![0426](.\assets\0426.png)spring boot ↔ mysql 간 연결 문제가 있었다.
+![image](https://github.com/piacu/piacu.github.io/assets/26267376/a036d42b-71fe-4b38-bc91-6785eab81e99)
+
+spring boot ↔ mysql 간 연결 문제가 있었다.
 
 사용자가 가진 권한을 통한 데이터베이스 접근이 거부되었다고 나왔다.
 
