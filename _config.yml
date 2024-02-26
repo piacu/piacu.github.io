@@ -5,6 +5,6 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
+baseurl: https://piacu.github.io/
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
