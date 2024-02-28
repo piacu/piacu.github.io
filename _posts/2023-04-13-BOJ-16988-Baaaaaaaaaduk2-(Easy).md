@@ -6,7 +6,7 @@ tags: [algorithm, baekjoon, java]
 
 ---
 
-![img](https://github.com/piacu/piacu.github.io/assets/26267376/63c39700-9428-495a-98dc-3d71daaa3bbf)
+![16988](https://github.com/piacu/piacu.github.io/assets/26267376/63c39700-9428-495a-98dc-3d71daaa3bbf)
 
 
 
