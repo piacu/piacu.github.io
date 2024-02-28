@@ -3,6 +3,7 @@
 layout: post
 title: "[Blog] Github Page 개설 및 후기"
 tags: [blog, jekyll, ruby]
+comments: true
 
 ---
 
