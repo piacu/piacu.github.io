@@ -28,7 +28,7 @@ github_username:  piacu
 
 disqus:
   comments: true
-  shortname: https-piacu-github-io
+  shortname: piacu
 
 # Exclude from processing.
 # The following items will not be processed, by default.
